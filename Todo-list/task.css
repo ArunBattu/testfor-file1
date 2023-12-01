@@ -1,0 +1,45 @@
+#div{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+  form {
+  margin-bottom: 20x;
+
+ }
+ 
+ #task {
+    width: 100px;
+    padding: 15px 20px;
+    margin: 10px 2px;
+    box-sizing: border-box;
+ }
+ button{
+    width: 65px;
+    background-color: chartreuse;
+    color: rgb(169, 47, 240);
+    padding: 15px 21px;
+    border: none;
+    cursor: pointer;
+ }
+
+ ul{
+    list-style: none;
+ }
+
+ li{
+    background-color: rgb(231, 203, 169);
+    padding: 8px;
+    margin-bottom: 8px;
+ }
+
+ .done {
+    text-decoration: line-through;
+ }
+
+ 
+ 
+
+
+ 
+ 
